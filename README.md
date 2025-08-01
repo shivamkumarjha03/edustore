@@ -1,5 +1,8 @@
 # EduStore - Educational Resource Hub
 
+Live Demo Link: https://edustores.netlify.app/home
+
+
 A comprehensive platform for students to access educational resources including previous year papers, interview preparation materials, and DSA practice problems.
 
 ## 🚀 Features
